@@ -1,1 +1,1 @@
-this is push to sub-branch
+this is push to detail
